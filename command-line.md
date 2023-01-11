@@ -8,7 +8,7 @@ used in this file underneath the particular question.
 
 1. Open your terminal (command prompt), either gitbash on windows or
    terminal on mac.
-   
+   okkkkkkkkkkkkkkkkkkkkkkkkkk!
 2. Which directory are you in?  Find it out!  Hint: `pwd`
 
 3. Navigate to your "Documents" directory (or wherever else you keep
