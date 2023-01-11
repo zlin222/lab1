@@ -22,7 +22,7 @@ used in this file underneath the particular question.
 
 5. List the files there.  Do you see the same files and in the file
    explorer?  Hint: `ls`
-   There is just empty in documents folder
+   There is empty in documents folder now.
 
 6. Navigate back to the home folder.  Use the dedicated shortcut for
    home folder.  Hint `~`.
